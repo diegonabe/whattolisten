@@ -1,0 +1,23 @@
+body {
+    background-color: yellow;
+  }
+  
+  .container {
+    float: left;
+    width: 50%;
+  }
+  
+  h1 {
+    text-align: left;
+  }
+  
+  p {
+    line-height: 1.5em;
+  }
+  
+  .image-container {
+    float: right;
+    max-width: 300 px;
+    width: 50%;
+  }
+  
